@@ -1,6 +1,7 @@
 # Churn-Prediction
 
 **Data**
+
 Churn History Dataset.csv
 The data available includes customers’ demographic profile, their plan features and usage history along with an indicator whether they actually churned or not.
 
