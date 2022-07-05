@@ -13,7 +13,7 @@ Churn Test Dataset.csv
 Test dataset to evaluate the prediction accuracy of the models
 
 
-**Model used**
+**Models used**
 
 I. Logistic Regression
 
