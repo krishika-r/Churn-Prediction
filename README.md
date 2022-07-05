@@ -17,7 +17,7 @@ Test dataset to evaluate the prediction accuracy of the models
 
 I. Logistic Regression
 
-II. Decision Trees 
+II. Decision Tree 
 
-III. Random Forests
+III. Random Forest
 
